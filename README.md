@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 We are on the good way
 
 🍬
+
+I'm adding new word in this README
